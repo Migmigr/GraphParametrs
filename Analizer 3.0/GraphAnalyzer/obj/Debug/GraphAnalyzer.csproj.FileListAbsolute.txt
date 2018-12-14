@@ -1,0 +1,67 @@
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe.config
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\bin\Debug\GraphAnalyzer.pdb
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form1.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.Properties.Resources.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.exe
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.pdb
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form2.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form3.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe.config
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.exe
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.pdb
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form1.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form2.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form3.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.Properties.Resources.resources
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe
+C:\Users\Nastya\Desktop\GraphAnalyzer — копия (2)\GraphAnalyzer\bin\Debug\GraphAnalyzer.pdb
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe.config
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.exe
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.pdb
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.pdb
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form1.resources
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form2.resources
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form3.resources
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.GenerateResource.Cache
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe.config
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.pdb
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csprojResolveAssemblyReference.cache
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form1.resources
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form2.resources
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form3.resources
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Properties.Resources.resources
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.GenerateResource.Cache
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.exe
+D:\ДИПЛОМ\Твиттер\Analizer 2.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.pdb
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe.config
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.pdb
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csprojResolveAssemblyReference.cache
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form1.resources
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form2.resources
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form3.resources
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Properties.Resources.resources
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.GenerateResource.Cache
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.exe
+D:\ДИПЛОМ\Твиттер\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.pdb
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe.config
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.exe
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\bin\Debug\GraphAnalyzer.pdb
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csprojAssemblyReference.cache
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form1.resources
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form2.resources
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Form3.resources
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.Properties.Resources.resources
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.GenerateResource.cache
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.csproj.CoreCompileInputs.cache
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.exe
+D:\ARHIVE\Диплом\Analizer 3.0\GraphAnalyzer\obj\Debug\GraphAnalyzer.pdb
